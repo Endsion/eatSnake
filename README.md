@@ -1,11 +1,11 @@
 # eatSnake  [在线演示](http://htmlpreview.github.io/?https://github.com/DMQ/eatSnake/master/snake.html)
 JS贪吃蛇小游戏
 
-1. 下载eat-snake.html及eat-snake.js
-2. 确保eat-snake.html引用的eat-snake.js路径是正确的
-3. 打开eat-snake.html就可以开始玩了
+1. 下载代码
+2. npm install
+3. npm run dev
 
-在eat-snake.js最后那里可以看到
+在index.ts最后那里可以看到
 
 new Snake(20, 20, 'eatSnake', 10, true);
 
